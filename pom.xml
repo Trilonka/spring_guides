@@ -20,6 +20,7 @@
         <module>rest-service</module>
         <module>scheduling-tasks</module>
         <module>relational_data_access</module>
+        <module>uploading-files</module>
     </modules>
 
     <properties>
